@@ -1,1 +1,0 @@
-# ResearchHub AI backend package
